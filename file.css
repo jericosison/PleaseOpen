@@ -1,0 +1,52 @@
+*{
+font-family:'Poppins', sans-serif;
+box-sizing:border-box;
+text-align: center !important;
+margin: auto !important;
+}
+
+h1{
+   
+    background-color: white;
+    font-size: large;
+    width: 500px;
+    padding: 30px;
+    
+}
+
+body{
+    background-image: url(gif/pasko.jpg);
+    background-position: center;
+    display: block;
+    padding-left: 35%;
+    text-align: center;
+    background-size: cover ;
+    background-position:center;
+   
+}
+
+button{
+
+    background-color: white;
+    border-radius: 6px;
+    position: absolute;
+    width: 50px;
+    height: 30px;
+}
+a{
+    display: block;
+    width: 43px;
+    background-color: white;
+    padding: 5px 10px;
+    border-radius: 6px;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    margin-left: 40% !important;
+    margin-top: 0.2% !important;
+
+}
+
+
+
+
